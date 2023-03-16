@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Name of flight = AirAsia
+Price = ₹ 3,926]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = AirAsia
+Price = ₹ 4,203]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = AirAsia
+Price = ₹ 4,533]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = SpiceJet
+Price = ₹ 4,682]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = AirAsia
+Price = ₹ 4,800]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = IndiGo
+Price = ₹ 4,800]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = SpiceJet
+Price = ₹ 5,260]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,301]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = Air India
+Price = ₹ 5,523]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = Air India
+Price = ₹ 5,523]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,625]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,800]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,800]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,800]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = SpiceJet
+Price = ₹ 5,809]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = IndiGo
+Price = ₹ 6,219]]>
+    </line>
+    <line>
+      <![CDATA[Name of flight = Air India
+Price = ₹ 6,258]]>
+    </line>
+    <line>
+      <![CDATA[SpiceJet Flight Avialble]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-09T19:16:23 IST" name="Suite" finished-at="2023-03-09T19:16:43 IST" duration-ms="19496">
+    <groups>
+    </groups>
+    <test started-at="2023-03-09T19:16:23 IST" name="Test" finished-at="2023-03-09T19:16:43 IST" duration-ms="19496">
+      <class name="makeMyTrip.EndToEnd">
+        <test-method is-config="true" signature="launch_Browser()[pri:0, instance:makeMyTrip.EndToEnd@2d710f1a]" started-at="2023-03-09T19:16:23 IST" name="launch_Browser" finished-at="2023-03-09T19:16:27 IST" duration-ms="4059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Browser -->
+        <test-method is-config="true" signature="Set_Journey()[pri:0, instance:makeMyTrip.EndToEnd@2d710f1a]" started-at="2023-03-09T19:16:27 IST" name="Set_Journey" finished-at="2023-03-09T19:16:34 IST" duration-ms="6553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_Journey -->
+        <test-method signature="validateResults()[pri:0, instance:makeMyTrip.EndToEnd@2d710f1a]" started-at="2023-03-09T19:16:34 IST" name="validateResults" finished-at="2023-03-09T19:16:43 IST" duration-ms="8840" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Name of flight = AirAsia
+Price = ₹ 3,926]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = AirAsia
+Price = ₹ 4,203]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = AirAsia
+Price = ₹ 4,533]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = SpiceJet
+Price = ₹ 4,682]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = AirAsia
+Price = ₹ 4,800]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = IndiGo
+Price = ₹ 4,800]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = SpiceJet
+Price = ₹ 5,260]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,301]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = Air India
+Price = ₹ 5,523]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = Air India
+Price = ₹ 5,523]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,625]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,800]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,800]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = IndiGo
+Price = ₹ 5,800]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = SpiceJet
+Price = ₹ 5,809]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = IndiGo
+Price = ₹ 6,219]]>
+            </line>
+            <line>
+              <![CDATA[Name of flight = Air India
+Price = ₹ 6,258]]>
+            </line>
+            <line>
+              <![CDATA[SpiceJet Flight Avialble]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateResults -->
+        <test-method signature="validateResults2()[pri:0, instance:makeMyTrip.EndToEnd@2d710f1a]" started-at="2023-03-09T19:16:43 IST" name="validateResults2" finished-at="2023-03-09T19:16:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResults2 -->
+      </class> <!-- makeMyTrip.EndToEnd -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
