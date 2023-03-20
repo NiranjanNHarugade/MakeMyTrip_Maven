@@ -22,7 +22,7 @@ public class Browser_Setup {
 	public static JavascriptExecutor js;
 	public  static WebDriverWait wait;
 
-	public static void open_browser (String Name) throws IOException
+	public void open_browser (String Name) throws IOException
 	{
 	
 		if(Name.equalsIgnoreCase("Chrome"))
