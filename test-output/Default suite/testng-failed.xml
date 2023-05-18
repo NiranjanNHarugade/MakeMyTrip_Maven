@@ -5,6 +5,7 @@
     <classes>
       <class name="makeMyTrip.EndToEnd">
         <methods>
+          <include name="validateResults2"/>
           <include name="Set_Journey"/>
           <include name="validateResults"/>
           <include name="launch_Browser"/>
